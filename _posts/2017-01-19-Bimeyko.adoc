@@ -9,6 +9,6 @@ Yaşadığım doğa parçası. +
 Ama burası değil batıya 9 Km.daha gideceksiniz dere tepe gidin.Sonra o tepeden bakın.Şaşırdınız değil mi? Böyle bir yer olabilir mi? +
 
 
-image::https://alick01.github.io/images/kis.jpg [Bimeyko'da kış]
+image::https://github.com/alick01/alick01.github.io/tree/master/images/kis.jpg [Bimeyko'da kış]
 
 
