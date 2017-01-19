@@ -1,11 +1,16 @@
-
 {
   "meta": {
     "username": "alick01",
     "repositoryName": "alick01.github.io",
     "branch": "master"
   },
+  "site": {
+    "title": "Ali Cengiz Kurt",
+    "description": "Ya herkes yazıyor bende yazacağım.",
+    "logo": "alick"
+  },
+  "socialnetwork": {},
   "theme": {
-    "name": "Casper"
+    "name": "ghostium"
   }
 }
